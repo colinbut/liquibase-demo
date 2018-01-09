@@ -1,11 +1,10 @@
 package com.mycompany.liquibase;
 
 /**
- * Hello world!
+ * Liquibase
  */
 public class App {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+    public static void main( String[] args ) {
+        System.out.println( "Liquibase! See http://www.liquibase.org/" );
     }
 }
